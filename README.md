@@ -67,5 +67,9 @@ Visual breakdown of Food vs Drink categories across MTD, QTD, and YTD periods.
 •	Interactive Reporting
 📌 Outcome
 This dashboard provides a clear understanding of revenue evolution over time, supports performance benchmarking, and helps management make informed, forward-looking decisions.
-https://github.com/user-attachments/assets/9769ab0b-359e-4298-b6d3-623115bfc7e9
 
+https://github.com/user-attachments/assets/4412985a-2665-45c3-8e37-9a95a1e7b047
+
+Interactive Online Report : 
+
+ https://app.powerbi.com/view?r=eyJrIjoiMmFhYjczODUtYjhkNy00YzVkLTlhMTYtNjk5OGU4YTkzYjMwIiwidCI6ImUxOWY2ZjQyLTJhODQtNDhlZS04N2Y2LTUzNjQ5YzdhMzNhYSIsImMiOjl9
